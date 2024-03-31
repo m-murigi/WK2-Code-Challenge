@@ -1,7 +1,10 @@
 # WK2-Code-Challenge
-# 1.Case Swapper   
-  2.Array Generator
-  3.Prime Numbers Generator
+#
+1.Case Swapper   
+
+2.Array Generator
+
+3.Prime Numbers Generator
 
 #### Date, 2024/03/31
 
@@ -26,24 +29,23 @@ Git
 
 ### Installation instruction
 ```
-Git clone https://github.com/hamida-mstafa/Triangle-tracker.git
+Git clone https://github.com/m-murigi/WK2-Code-Challenge.git
 
 ```
 
 # Live Link
-[Git](gh-pages link)
+
 
 ## Technologies used
-HTML
+
 Github
+
 Javascript
 
 ## Support and contact details
 github.com/m-murigi
 
 ### License
-The content of this site is licensed under the MIT license
-Copyright (c) 2018.
 
 
 
